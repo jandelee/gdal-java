@@ -8,5 +8,6 @@ press <ENTER>
 sudo apt-get update
 
 sudo apt-get install libgdal-java libgdal20
+Enter 'Y'
 ```
 

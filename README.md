@@ -11,3 +11,8 @@ sudo apt-get install libgdal-java libgdal20
 Enter 'Y'
 ```
 
+Download this repository.
+```bash
+git clone https://github.com/jandelee/gdal-java.git
+cd gdal-java
+```

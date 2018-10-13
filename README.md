@@ -24,4 +24,12 @@ sudo apt install openjdk-9-jdk-headless
 
 Compile and run the sample Java app
 ```bash
-javac -classpath "
+EXPORT CLASSPATH=.:/usr/share/java/gdal.jar
+javac gdal-test.java
+java MyClass
+```
+
+This should result in:
+```bash
+Number of rasters in image:3
+```

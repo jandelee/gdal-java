@@ -16,3 +16,12 @@ Download this repository.
 git clone https://github.com/jandelee/gdal-java.git
 cd gdal-java
 ```
+
+Download Java.
+```bash
+sudo apt install openjdk-9-jdk-headless
+```
+
+Compile and run the sample Java app
+```bash
+javac -classpath "

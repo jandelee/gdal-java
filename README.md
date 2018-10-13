@@ -34,3 +34,5 @@ This should result in:
 ```bash
 Number of rasters in image:3
 ```
+
+These steps worked successfully with Xenial Ubuntu both on AWS EC2 using a Canonical AMI and also on Windows System for Linux running Xenial Ubuntu.

@@ -20,6 +20,7 @@ cd gdal-java
 Download Java.
 ```bash
 sudo apt install openjdk-9-jdk-headless
+Enter 'Y'
 ```
 
 Compile and run the sample Java app

@@ -25,7 +25,7 @@ Enter 'Y'
 
 Compile and run the sample Java app
 ```bash
-EXPORT CLASSPATH=.:/usr/share/java/gdal.jar
+export CLASSPATH=.:/usr/share/java/gdal.jar
 javac gdal-test.java
 java MyClass
 ```

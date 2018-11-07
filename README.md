@@ -17,7 +17,7 @@ git clone https://github.com/jandelee/gdal-java.git
 cd gdal-java
 ```
 
-Download Java.
+Download Java (for Trusty, use openjdk-7-jdk).
 ```bash
 sudo apt install openjdk-9-jdk-headless
 Enter 'Y'
